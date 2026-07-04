@@ -1,0 +1,171 @@
+# Pennsylvania Individual Health Insurance Market: July 2026 Public Education Report
+
+**Date:** July 4, 2026  
+**Prepared For:** Pennsylvania Residents, Community Organizations, and Healthcare Navigators  
+**Subject:** Status of the Individual Health Insurance Market, Enrollment Changes, and Consumer Protections  
+
+---
+
+## 1. Executive Summary
+
+As of July 2026, the Pennsylvania individual health insurance market is undergoing significant changes driven by two primary factors: the expiration of federal enhanced premium tax credits and state-approved rate adjustments. 
+
+*   **Federal Change:** The federal enhanced premium tax credits (EPTC), which capped household premium contributions at 8.5% of income, expired on December 31, 2025. Congress has not yet restored them (Pennsylvania Health Insurance Exchange Authority [Pennie], 2026a).
+*   **State Change:** The Pennsylvania Insurance Department (PID) approved an average rate increase of 21.5% for the 2026 plan year after reviewing carrier filings (Pennsylvania Insurance Department, 2025).
+*   **Combined Impact:** For many subsidized enrollees, the combination of higher base rates and the loss of federal subsidies has resulted in a reported average net premium increase of 102% (Pennie, 2026a).
+*   **Enrollment Status:** Total effectuated enrollment on Pennie stands at 443,024 as of June 1, 2026. Cumulative terminations since November 2025 exceed 160,000 (Pennie, 2026b).
+*   **State Relief Status:** The Act 54 State Health Insurance Exchange Affordability Program, designed to provide state-level subsidies, remains unfunded as the Pennsylvania state budget missed its June 30, 2026 deadline (Spotlight PA, 2026).
+
+This report provides verified data, explains the mechanics of these changes, and outlines specific consumer protections available under Pennsylvania law.
+
+---
+
+## 2. Understanding Premium Increases
+
+Premium changes in 2026 are the result of two distinct mechanisms operating simultaneously.
+
+### 2.1 The Expiration of Federal Enhanced Credits
+From 2021 through 2025, federal law capped the percentage of income a household paid for a benchmark plan at 8.5%, regardless of income level. This provision expired on December 31, 2025 (Internal Revenue Service, 2025). 
+
+Under current 2026 law:
+*   Subsidies are calculated on a sliding scale that increases with income.
+*   Eligibility for *any* premium tax credit ends completely at **400% of the Federal Poverty Level (FPL)**.
+*   Households earning above this threshold are responsible for 100% of their premium costs.
+
+**Example of Impact:** The Pennsylvania Insurance Department cited a case of a 60-year-old married couple in York County earning approximately $82,000 annually. Under 2025 rules, their annual premium was $7,032. Under 2026 rules, their projected annual premium is $35,712, representing a 408% increase (Pennsylvania Insurance Department, 2025). This illustrates the "subsidy cliff" where crossing the 400% FPL threshold results in the total loss of federal assistance.
+
+### 2.2 Approved Rate Increases
+Independently of federal subsidies, insurance carriers filed for rate changes for the 2026 plan year. The PID reviews these filings to ensure they are justified by medical costs and enrollment projections.
+*   **Statewide Average:** The PID approved a weighted average increase of 21.5% for the individual market (Pennsylvania Insurance Department, 2025).
+*   **Carrier Variance:** Approved rates vary significantly by carrier. For example:
+    *   **Partners Insurance Company:** Approved for a 10.1% *decrease* (Pennsylvania Insurance Department, 2025).
+    *   **Ambetter Health of Pennsylvania:** Approved for a 37.8% *increase* (Pennsylvania Insurance Department, 2025).
+    *   **Capital Advantage Assurance Company:** Approved for a 24.6% increase (Pennsylvania Insurance Department, 2025).
+
+Consumers are encouraged to compare all available plans during enrollment periods, as staying with a previous carrier may not be the most cost-effective option.
+
+---
+
+## 3. Enrollment Data and Attrition
+
+Reports on enrollment losses often cite different numbers (85,000, 120,000, or 160,000+). These figures represent the same trend measured at different points in time, influenced by federal grace period rules.
+
+### 3.1 Timeline of Terminations
+Under federal regulations (45 C.F.R. § 156.270), enrollees receiving advance premium tax credits are entitled to a three-month grace period for non-payment of premiums before coverage can be terminated.
+
+| Date | Reported Terminations | Context | Source |
+| :--- | :--- | :--- | :--- |
+| **Jan 31, 2026** | 85,000 | Terminations recorded at the close of Open Enrollment. Includes non-renewals and failure to pay initial premiums. | Pennie (2026a) |
+| **April 6, 2026** | ~120,000 | Interim figure reflecting the expiration of grace periods for January and February non-payments. | Leonard (2026) |
+| **June 1, 2026** | 160,000+ | Cumulative terminations including full grace period expirations and mid-year dropouts. | Pennie (2026b) |
+
+**Current Enrollment:** As of June 1, 2026, total active enrollment is 443,024 (Pennie, 2026b).
+
+### 3.2 Shift in Plan Selection
+Due to rising costs, there has been a measurable shift in plan selection. Enrollment in Bronze-tier plans increased by approximately 30% compared to the previous year (Pennie, 2026a). 
+*   **Trade-off:** While Bronze plans have lower monthly premiums, they carry higher deductibles. The average deductible for a Bronze plan in 2026 is estimated at $7,186, compared to $5,304 for Silver plans (KFF, 2026).
+
+---
+
+## 4. Regional Market Dynamics
+
+Pennsylvania is divided into nine rating areas. While the statewide average rate increase is 21.5%, local market conditions vary.
+
+*   **Rating Area 3 (Northeast/Poconos):** This region exhibits the widest disparity in carrier rates. In 2026, Oscar Health Plan received approval for a 23.1% increase, while Partners Insurance Company received approval for a 10.1% decrease (Pennsylvania Insurance Department, 2025).
+*   **Rating Area 6 (Lehigh Valley/Central PA):** This area is experiencing a specific network disruption unrelated to ACA subsidies. A contract dispute between UnitedHealthcare and Lehigh Valley Health Network (LVHN) has affected network status. Medicare Advantage members lost in-network access on January 26, 2026. Commercial plan members, including those in the VA Community Care Network, face loss of in-network access effective April 26, 2026 (Pennsylvania Department of Aging, 2026; WFMZ, 2026).
+*   **Rural Areas (Areas 2, 5, 9):** Rural counties, such as Fulton, Juniata, and Potter, face thinner carrier competition. Fifteen of the twenty counties with the highest proportional coverage loss are rural (Pennie, 2026a).
+
+---
+
+## 5. Consumer Protections and Billing Rights
+
+Pennsylvania law provides specific protections for consumers facing unexpected medical bills. It is important to distinguish between state protections and federal processes.
+
+### 5.1 Directory Errors and Out-of-Network Care
+If a patient receives care from an out-of-network provider because the insurance plan's directory incorrectly listed them as in-network:
+*   **Liability Cap:** Under **28 Pa. Code § 9.725**, the patient's financial liability is limited to the in-network cost-sharing amount (e.g., copay or deductible). The provider cannot balance bill the patient for the difference (Pennsylvania Insurance Department, n.d.-a).
+*   **Disclosure Requirement:** Under **Act 252 of 2023**, out-of-network providers must provide written notice of their status and estimated costs at least seven days prior to non-emergency services. If this notice is not provided, the balance bill is presumed invalid (Pennsylvania Insurance Department, n.d.-b).
+
+### 5.2 Clarification on Federal Dispute Resolution
+There is a common misconception regarding the federal Independent Dispute Resolution (IDR) process under the No Surprises Act.
+*   **Limitation:** The federal IDR process (45 C.F.R. § 149.510) is an arbitration mechanism between **providers and health plans** to settle payment amounts. Individual consumers **cannot** file for federal IDR (Centers for Medicare & Medicaid Services, 2024).
+*   **Correct Action:** Consumers facing billing disputes due to directory errors or lack of disclosure should utilize the Pennsylvania state protections listed above and file complaints with the Pennsylvania Insurance Department.
+
+### 5.3 Preventive vs. Diagnostic Billing
+Under the Affordable Care Act, preventive services must be covered at 100% with no cost-sharing. However, if a patient discusses or receives treatment for an existing condition during a preventive visit:
+*   **Coding Mechanism:** Providers may append a separate Evaluation and Management (E/M) code, often with **Modifier 25**, to the claim. This code addresses the specific condition and is subject to the plan's deductible and coinsurance (Centers for Medicare & Medicaid Services, 2023).
+*   **Patient Action:** Patients should ask providers prior to the visit if a separate E/M code will be billed if specific health concerns are discussed.
+
+---
+
+## 6. Legislative Status and Future Outlook
+
+Two key legislative actions remain pending as of July 4, 2026, which could alter the market landscape.
+
+1.  **Federal Extension:** The U.S. House of Representatives passed a bill to extend enhanced premium tax credits on January 8, 2026. As of July 2026, the U.S. Senate has not voted on this legislation (Ballotpedia News, 2026).
+2.  **State Funding (Act 54):** Pennsylvania's Act 54 of 2024 established a state-level subsidy program for households earning between 151% and 300% of the FPL. However, the program requires appropriation of funds. The Pennsylvania state budget for FY2026–27 missed its June 30 deadline, leaving the program unfunded (Spotlight PA, 2026). Pennie has stated the technical infrastructure for the program is ready to deploy once funding is secured (Pennie, 2026b).
+
+---
+
+## 7. Resources for Assistance
+
+Residents seeking help with enrollment, subsidies, or billing disputes should contact the following official resources:
+
+*   **Enrollment and Subsidy Eligibility:**  
+    Pennie (Pennsylvania Health Insurance Exchange)  
+    Website: [pennie.com](https://www.pennie.com)  
+    Phone: 1-844-844-8040  
+    (Pennsylvania Health Insurance Exchange Authority, 2026)
+
+*   **Insurance Complaints and Consumer Protection:**  
+    Pennsylvania Insurance Department  
+    Website: [pa.gov/consumer](https://www.pa.gov/consumer)  
+    Phone: 1-866-722-6675  
+    (Pennsylvania Insurance Department, n.d.-a)
+
+*   **Free Legal Assistance:**  
+    Pennsylvania Health Law Project  
+    Website: [phlp.org](https://www.phlp.org)  
+    Phone: 1-800-274-3258  
+    (Pennsylvania Health Law Project, n.d.)
+
+*   **Medicare Counseling:**  
+    PA MEDI  
+    Phone: 1-800-783-7067  
+    (Pennsylvania Department of Aging, 2026)
+
+---
+
+## References
+
+Ballotpedia News. (2026, January 12). House passes three-year extension of expanded ACA subsidies. https://news.ballotpedia.org/2026/01/12/house-passes-three-year-extension-of-expanded-aca-subsidies/
+
+Centers for Medicare & Medicaid Services. (2023). *Preventive services coverage*. U.S. Department of Health & Human Services. https://www.cms.gov/cciio/resources/fact-sheets-and-faqs/preventive-services
+
+Centers for Medicare & Medicaid Services. (2024). *Independent dispute resolution process under the No Surprises Act*. U.S. Department of Health & Human Services. https://www.cms.gov/nosurprises
+
+Internal Revenue Service. (2025). *Rev. Proc. 2025-25: Applicable percentage table for 2026*. U.S. Department of the Treasury. https://www.irs.gov/pub/irs-drop/rp-25-25.pdf
+
+KFF. (2026, January 14). *Higher premium payments or higher deductibles: The tradeoffs ACA enrollees face*. Peterson-KFF Health System Tracker. https://www.healthsystemtracker.org/brief/higher-premium-payments-or-higher-deductibles-the-tradeoffs-aca-enrollees-face/
+
+Leonard, N. (2026, April 6). 120,000 Pennsylvanians have dropped ACA health insurance since premium spikes. WHYY. https://whyy.org/articles/pennsylvania-affordable-care-act-enrollment-120000/
+
+Pennsylvania Department of Aging. (2026, March 16). *Shapiro administration calls out a special enrollment opportunity for Medicare Advantage members affected by insurance company contract dispute*. Commonwealth of Pennsylvania. https://www.pa.gov/agencies/aging/newsroom/special-enrollment-opportunity-called-for-medicare-advantage-members
+
+Pennsylvania Health Insurance Exchange Authority [Pennie]. (2026a, February 9). *One in five Pennie enrollees drop health coverage due to expired federal tax credits* [Press release]. https://agency.pennie.com/one-in-five-pennie-enrollees-drop-health-coverage-due-to-expired-federal-tax-credits/
+
+Pennsylvania Health Insurance Exchange Authority [Pennie]. (2026b). *Affordability*. https://pennie.com/affordability/
+
+Pennsylvania Health Law Project. (n.d.). *Contact us*. Retrieved July 4, 2026, from https://www.phlp.org/en/contact
+
+Pennsylvania Insurance Department. (2025, October 14). *Pennsylvania Insurance Department releases Affordable Care Act 2026 health insurance rates* [Press release]. Commonwealth of Pennsylvania. https://www.pa.gov/agencies/insurance/newsroom/aca-2026-health-insurance-rates
+
+Pennsylvania Insurance Department. (n.d.-a). *Consumer services*. Commonwealth of Pennsylvania. Retrieved July 4, 2026, from https://www.pa.gov/agencies/insurance/consumers/consumer-services
+
+Pennsylvania Insurance Department. (n.d.-b). *Act 252 of 2023: Balance billing protections*. Commonwealth of Pennsylvania. Retrieved July 4, 2026, from https://www.pa.gov/agencies/insurance/laws-regulations-notices/act-252-balance-billing
+
+Spotlight PA. (2026, July 1). PA's budget is late for the 5th year in a row. https://www.spotlightpa.org/news/2026/07/budget-pennsylvania-late-deadline-june-30-2026-shapiro-capitol/
+
+WFMZ. (2026, January 26). Deadline passed: UnitedHealthcare Medicare Advantage patients lose in-network coverage at LVHN. https://www.wfmz.com/news/area/lehighvalley/deadline-passed-unitedhealthcare-medicare-advantage-patients-lose-in-network-coverage-at-lvhn/article_e57b190a-f44d-4a3f-821d-6ddf8db176f4.html
+
+*Disclaimer: This document is for educational purposes only and does not constitute legal, medical, or financial advice. Regulations and legislative statuses are subject to change. Individuals should verify their specific eligibility and coverage details directly with Pennie, their insurance carrier, or the Pennsylvania Insurance Department.*
