@@ -1,0 +1,107 @@
+Appendix A: Evidentiary Framework & Administrative Data Verification
+July 2026 Pennsylvania Health Insurance Market Analysis - Supporting Documentation
+
+1. Exchange Enrollment Attrition & Plan Selection Shifts
+Verified Metrics (Cross-Referenced Sources)
+Metric	Claimed Value	Verification Status	Primary Source(s)
+Average Net Premium Increase	102%	VERIFIED	Pennie, 2026a; KFF, 2026
+OEP Active Enrollees (Jan 31, 2026)	486,000	VERIFIED	Pennie, 2026a; PA Dept Aging, 2026
+OEP Disenrollments	~85,000	VERIFIED	Pennie, 2026a; Philly Inquirer, 2026
+Total Cancellations (>OEP, Jun 1)	>160,000	VERIFIED	Pennie, 2026a; Penn Capital-Star, 2026
+June 1, 2026 Remaining Enrollment	443,024	PARTIAL VERIFICATION	Pennie sources cited; exact figure in primary docs only
+Bronze-Tier Migration (+33,000 / +30%)	33,000 additional enrollees	NOT EXTERNALLY VERIFIED	Cited from internal Pennie analysis only
+Interpretation: While premium increases and total disenrollment figures have been corroborated across multiple independent outlets (Pennie press releases, PA Department reports, regional news organizations), the specific Bronze-tier migration metric originates from Pennie's internal administrative data without third-party corroboration as of this writing.
+
+Plan Tier Migration Context
+Increased out-of-pocket burden correlates with movement toward lower-premium structures. This behavioral pattern aligns with established adverse selection dynamics where price-sensitive enrollees either exit the market or opt for plans with reduced monthly costs but elevated cost-sharing obligations.
+
+2. Pharmacy Benefit Manager Compliance Checkpoints (Act 77)
+Statutory Rollout Schedule – Verification Table
+Requirement	Implementation Deadline	Verification Status	Source Link
+Act 77 Full Integration (Individual/Small Group)	January 1, 2026	VERIFIED	https://www.pa.gov/agencies/insurance/laws-regulations-notices/act-77-pharmacy-benefit-reform-act
+Network Adequacy Report Filing	April 1, 2026	VERIFIED	https://www.pa.gov/agencies/insurance/filing-reporting-requirements/pbm-reporting-requirements
+Transparency Report Filing	July 1, 2026	VERIFIED	Same PID portal (public availability pending within 60 days)
+H.B. 2270 Introduction (Single PBA Proposal)	March 5, 2026	VERIFIED	https://www.palegis.us/house/co-sponsorship/memo?memoID=48244
+Legislative Expansion Details (H.B. 2270)
+Ohio's consolidated PBA model serves as referenced comparative benchmark, with documented administrative savings reported in state fiscal notes. Exact quantitative comparison ($333 million cumulative savings since 2019) originates from co-sponsorship materials distributed by Representative Matzie and Senator Klunk offices. Independent validation through Ohio Auditor reports recommended for audit purposes.
+
+3. Medicaid GLP-1 Formulary Exclusions & Clinical Carve-Outs
+Coverage Determination Flowchart (Verified Policy Parameters)
+┌─────────────────────────────────────────────────────┐
+│        MEDICAID BENEFICIARY AGE CLASSIFICATIONS    │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  Under 21 Years                                     │
+│  ├─ Any medically necessary indication              │
+│  └─ EPSDT mandate: COVERAGE REQUIRED               │
+│                                                     │
+│  Age 21+                                            │
+│  ├─ Weight Loss/Obesity indication ONLY             │
+│  └─ RESULT: COVERAGE DENIED (effective Jan 1, 2026) │
+│                                                     │
+│  Age 21+                                            │
+│  ├─ Approved secondary diagnosis                    │
+│  │  • Type 2 Diabetes                               │
+│  │  • Severe Obstructive Sleep Apnea                │
+│  │  • Cardiovascular Risk Reduction                 │
+│  └─ REQUIREMENT: New Prior Authorization            │
+│      (Start date ≥ Jan 1, 2026 required)            │
+└─────────────────────────────────────────────────────┘
+Clinical Criteria Validation
+Criterion	Effective Date	Verification	Document Reference
+Weight-Loss-Only Coverage Termination	January 1, 2026	VERIFIED	PA DHS Bulletin MAB 2025-1124-03; PHLP guidance
+Previous PA Expiration	December 31, 2025	VERIFIED	Jefferson Health Plans notification; DHSM bulletin
+EPA/EPSDT Minor Exception	Ongoing	VERIFIED	Federal Medicaid statute §1902(a)(43); PHLP interpretation
+Saxenda Removal from Formulary	Concurrent with policy change	PARTIAL VERIFICATION	Mentioned in PHLP summary; formulary confirmation via pharmacy distributors
+Recommended Operational Protocol for Providers
+Step 1: Verify patient age classification (<21 vs. ≥21)
+Step 2: Confirm medical indication documentation
+    ├── If weight-loss-only + adult → Denial expected
+    └── If secondary indication → Submit new PA
+Step 3: Include start date ≥ January 1, 2026 on PA submission
+Step 4: Await determination prior to dispensing (non-emergency cases)
+4. Rating Area 6 Provider-Insurer Boundary Metrics
+Contractual Separation Timeline
+Contract Type	Termination Effective Date	Membership Impact	Continuity Provision
+UHC Medicare Advantage	January 26, 2026	~5,400 members	90-day CoC window for active treatment
+UHC Commercial Employer	April 26, 2026	Regional workforce population	Standard network rules; elective procedures OON
+VA Community Care Network	N/A (Exempt)	Zero impact	Continuous access preserved
+Regulatory Remedies – Temporal Boundaries
+Mechanism	Opening Date	Closing Date	Current Status
+Special Enrollment Period (SEP)	February/March 2026	April 30, 2026	CLOSED
+Continuity of Care Window	Upon termination date	90 days post-separation	Case-dependent expiration
+Appeal Process	Ongoing	Per member circumstance	Available
+Critical Distinction Notes
+Veterans' Access Preservation: VA CCN participants maintain uninterrupted in-network status with LVHN facilities regardless of commercial contract separation. This exemption derives from separate federal-state procurement agreement architecture isolating veteran healthcare procurement from private commercial negotiations.
+
+Balance Billing Protection Limitations: Members accessing LVHN services post-termination outside continuity provisions face standard out-of-network reimbursement schedules. Emergency care retains baseline protection under NCQA accreditation requirements; non-emergent services subject to full charge master rates absent network negotiation.
+
+5. Real-World Public Health Mapping Applications
+Target Population Resource Allocation Matrix
+Stakeholder Role	Action Priority	Timing Recommendation	Success Metric
+Insurance Navigators	Financial literacy outreach for Bronze plan adopters	Q1-Q2 2026	Deductible comprehension surveys
+Hospital Case Managers	GLP-1 routing protocol activation	Immediately upon prescription	PA approval rate improvement
+Care Coordinators (RA 6)	Plan subtype verification for UHC patients	Pre-appointment screening	Reduced surprise billing incidents
+Operational Alerts for Public Health Infrastructure
+Surge Capacity Planning: Anticipate increased urgent care utilization among former Pennie enrollees experiencing coverage gaps during late Q2 2026 post-OEP period.
+
+Prescription Fulfillment Interruption: Pharmacy staff should prepare for escalated prior authorization volume starting early January 2026, particularly affecting chronic therapy transitions.
+
+Regional Referral Routing: Lehigh Valley hospital system operators should update credentialing matrices to reflect September 2026 closure of SEP window, directing newly diagnosed patients away from LVHN for commercial UHC members.
+
+Cross-Reference Source Index for Audit Trail
+Topic Domain	Primary Authority	Secondary Corroboration	External Third-Party
+Premium Increases	PA Insurance Department	WITF, WHYY	ACA Signups
+Enrollment Numbers	Pennie Official Releases	PA Dept Aging	Philly Inquirer, Penn Capital-Star
+GLP-1 Formulary	PA DHS Bulletins	Jefferson Health Plans	KFF, PHLP, Spotlight PA
+Act 77 Timeline	PA Insurance Department	PA Pharmacists Association	Legislative memos
+UHC-LVHN Dispute	UHC Press Communications	LVHN/Jefferson Health Statements	Beckers Payer Issues
+Data Reliability Assessment Summary
+Claim Classification	Confidence Level	Reasoning
+Rate Change Percentages (21.5%/12.7%)	HIGH	Multiple agency publications concordant
+Net Premium Shock (102%)	HIGH	Pennie official communications consistent
+Enrollment Figures	MEDIUM-HIGH	Pennie primary source; news aggregation supports magnitude
+Bronze Tier Migration (+30%)	LOW-MEDIUM	Internal administrative data only
+Ohio PBA Savings ($333M)	LOW	Co-sponsorship promotional material; seeks external audit
+Specific SEER/SERFF Filing IDs	UNVERIFIED	Requires insurance department records request
+Document Prepared For: Formal regulatory review and regional healthcare navigation program deployment Verification Date Range: Searches conducted through July 4, 2026 Limitations Statement: Certain carrier-specific metrics (SERFF filing identifiers, granular plan-tier shifts) require direct inspection of Pennsylvania Insurance Department rate filing databases for complete audit trail.
